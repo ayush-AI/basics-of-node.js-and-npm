@@ -28,6 +28,6 @@ Next, open package.json in your editor and modify script section
 #Setting up .gitignore
 Next, create a file in your project directory named .gitignore (Note: the name starts with a period)Then, add the following to the .gitignore file
 
-#node_modules
+### node_modules
 
 Then do a git commit and push the changes to the online repository. You will note that the node_modules folder will not be added to the commit, and will not be uploaded to the repository.
