@@ -1,7 +1,7 @@
 # basics-of-node.js-and-npm
 - In this repo we will learn basics of node and npm by setting up packaga.json file in our project folder and after that we will set up lite-server and host our project file and see the changes made to it live.
 - first create a local repo and initialise it as a git repo by using git init command.
-   `git init
+   `git init`
  ### git-init
  - make an index.html file in the repo and add some html in it.
  - now make an online repo on github and push the changes to it using the following command.
